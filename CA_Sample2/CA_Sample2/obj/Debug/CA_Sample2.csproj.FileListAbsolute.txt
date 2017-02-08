@@ -1,0 +1,6 @@
+c:\users\keita shinohara\documents\visual studio 2015\Projects\CA_Sample2\CA_Sample2\bin\Debug\CA_Sample2.exe.config
+c:\users\keita shinohara\documents\visual studio 2015\Projects\CA_Sample2\CA_Sample2\bin\Debug\CA_Sample2.exe
+c:\users\keita shinohara\documents\visual studio 2015\Projects\CA_Sample2\CA_Sample2\bin\Debug\CA_Sample2.pdb
+c:\users\keita shinohara\documents\visual studio 2015\Projects\CA_Sample2\CA_Sample2\obj\Debug\CA_Sample2.csproj.ResolveComReference.cache
+c:\users\keita shinohara\documents\visual studio 2015\Projects\CA_Sample2\CA_Sample2\obj\Debug\CA_Sample2.exe
+c:\users\keita shinohara\documents\visual studio 2015\Projects\CA_Sample2\CA_Sample2\obj\Debug\CA_Sample2.pdb
