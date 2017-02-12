@@ -1,0 +1,6 @@
+C:\Users\keitashinohara\Documents\Visual Studio 2015\Projects\CA_Sample2\CA_Sample2\bin\Release\CA_Sample2.exe.config
+C:\Users\keitashinohara\Documents\Visual Studio 2015\Projects\CA_Sample2\CA_Sample2\obj\Release\CA_Sample2.csproj.ResolveComReference.cache
+C:\Users\keitashinohara\Documents\Visual Studio 2015\Projects\CA_Sample2\CA_Sample2\bin\Release\CA_Sample2.exe
+C:\Users\keitashinohara\Documents\Visual Studio 2015\Projects\CA_Sample2\CA_Sample2\bin\Release\CA_Sample2.pdb
+C:\Users\keitashinohara\Documents\Visual Studio 2015\Projects\CA_Sample2\CA_Sample2\obj\Release\CA_Sample2.exe
+C:\Users\keitashinohara\Documents\Visual Studio 2015\Projects\CA_Sample2\CA_Sample2\obj\Release\CA_Sample2.pdb
